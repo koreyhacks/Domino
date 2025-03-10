@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/72793681-9c97-4261-a0d3-1e2cbd547ff8)
 
-Overview
+Overview:
 <br>
 Domino is a comprehensive domain enumeration tool designed for ethical hackers, penetration testers, and security researchers. This tool streamlines the reconnaissance phase by automating the discovery and analysis of domain information. Domino provides a clean, colorful interface with efficient multi-threaded operations for rapid information gathering.
 
@@ -30,11 +30,13 @@ Installation:
 git clone https://github.com/koreyhacks/domino.git
 <br>
 cd domino
-
+<br>
+<br>
 # Install dependencies
+<br>
 pip install -r requirements.txt
-![image](https://github.com/user-attachments/assets/eeb47baf-433b-40a6-90b6-31266d939e9b)
-
+<br>
+<br>
 Requirements:
 <br>
 Python 3.6+
@@ -48,17 +50,19 @@ requests
 colorama
 <br>
 tqdm
-
-Usage:
-Basic Usage
 <br>
-![image](https://github.com/user-attachments/assets/805d6f00-2802-4db7-9acf-7b93677a44e8)
+<br>
+Usage:
+<br>
+<br>
+Basic Usage:
 <br>
 python domino.py example.com (you can also place the target domain IP)
-
+<br>
 Advanced Usage:
 <br>
 ![image](https://github.com/user-attachments/assets/025234e6-9367-414b-97dc-b58fb0fb26fd)
+<br>
 <br>
 python domino.py example.com -w wordlists/subdomains.txt -t 20 -to 3 -v
 
