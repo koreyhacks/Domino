@@ -29,10 +29,15 @@ pip install -r requirements.txt
 Requirements
 
 Python 3.6+
+<br>
 dnspython
+<br>
 python-whois
+<br>
 requests
+<br>
 colorama
+<br>
 tqdm
 
 Usage
