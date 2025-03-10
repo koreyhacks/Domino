@@ -32,9 +32,7 @@ git clone https://github.com/koreyhacks/domino.git
 cd domino
 
 # Install dependencies
-<br>
 pip install -r requirements.txt
-<br>
 ![image](https://github.com/user-attachments/assets/eeb47baf-433b-40a6-90b6-31266d939e9b)
 
 Requirements:
