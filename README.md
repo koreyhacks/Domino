@@ -15,7 +15,8 @@
 
 Domino is a comprehensive domain enumeration tool designed for ethical hackers, penetration testers, and security researchers. This tool streamlines the reconnaissance phase by automating the discovery and analysis of domain information. Domino provides a clean, colorful interface with efficient multi-threaded operations for rapid information gathering.
 
-![Domino Banner](https://raw.githubusercontent.com/koreyhacks/domino/main/screenshots/banner.png)
+![2025-03-10 22_58_03-KALI  Running  - Oracle VirtualBox _ 1](https://github.com/user-attachments/assets/bce3b475-bfbc-4f64-a3ce-0d91719e42de)
+
 
 ## Features
 
