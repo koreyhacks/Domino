@@ -1,9 +1,10 @@
-s# DOMINO
+# Domino  🀺
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-1.0-blue.svg" alt="Version">
-  <img src="https://img.shields.io/badge/Python-3.6+-brightgreen.svg" alt="Python">
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License">
+  <img src="https://img.shields.io/badge/python-3.6+-blue.svg" alt="Python Version">
+  <img src="https://img.shields.io/badge/license-MIT-green.svg" alt="License">
+  <img src="https://img.shields.io/badge/platform-Linux%20%7C%20Kali-lightgrey.svg" alt="Platform">
+  <img src="https://img.shields.io/badge/maintained%3F-yes-brightgreen.svg" alt="Maintained">
 </p>
 
 <p align="center">
