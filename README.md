@@ -1,4 +1,4 @@
-# DOMINO
+s# DOMINO
 
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0-blue.svg" alt="Version">
@@ -71,10 +71,6 @@ python domino.py example.com -w wordlists/subdomains.txt -t 20 -to 3 -v
 | `-t`, `--threads` | Number of threads to use (default: 10) |
 | `-to`, `--timeout` | Timeout for connections in seconds (default: 5) |
 | `-v`, `--verbose` | Enable verbose output |
-
-## Screenshots
-
-![Domino in Action](https://raw.githubusercontent.com/koreyhacks/domino/main/screenshots/example.png)
 
 ## Example Output
 
